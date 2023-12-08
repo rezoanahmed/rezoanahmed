@@ -1,9 +1,14 @@
 
 
-# Overview
 ![alt text](https://raw.githubusercontent.com/rezoanahmed/rezoanahmed/main/images/REZOAN%20Ahmed.png)
+## Overview
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezoanahmed&theme=github-dark-dimmed)](https://git.io/streak-stats)
+
+## Three Recent Projects
+- [Travego](https://traveg0.web.app/)
+- [Cars Palace](https://cars-palace.web.app/)
+- [Fitness Zone](https://gym-zone-abd0e.web.app/)
 
 ## Connect with me!
 
