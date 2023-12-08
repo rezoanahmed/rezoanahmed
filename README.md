@@ -1,10 +1,7 @@
 
 
 # Overview
-
-
-
-
+![alt text](https://raw.githubusercontent.com/rezoanahmed/rezoanahmed/main/images/REZOAN%20Ahmed.png)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezoanahmed&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
