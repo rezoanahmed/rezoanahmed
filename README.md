@@ -44,7 +44,7 @@ I am excited about the opportunity to contribute my skills and knowledge to a dy
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongo,nodejs,git,figma)](https://skillicons.dev)
 
 
-## About Me
+## Summary
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about my passion
