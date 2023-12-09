@@ -1,6 +1,6 @@
 
 
-![alt text](https://raw.githubusercontent.com/rezoanahmed/rezoanahmed/main/images/REZOAN%20Ahmed.png)
+![alt text](https://i.ibb.co/YLzM01q/REZOAN-Ahmed.gif)
 
 ## About Me
 Hello, I'm Md Rezoan Ahmed, a passionate and dedicated computer science and engineering graduate with a strong foundation in the field. I have successfully completed my bachelor's degree, and I am currently expanding my skill set by diving into the world of MERN Stack development.
@@ -11,7 +11,8 @@ I am excited about the opportunity to contribute my skills and knowledge to a dy
 
 ## Overview
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezoanahmed&theme=github-dark-dimmed)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezoanahmed&theme=github-dark-dimmed)](https://git.io/streak-stats) -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rezoanahmed&theme=github-dark-dimmed" alt="GitHub Streak" style="width:100%" /></a>
 
 
 
@@ -19,17 +20,17 @@ I am excited about the opportunity to contribute my skills and knowledge to a dy
 - Travego
     * Technologies Used: React JS, Express JS, Firebase, MongoDB, Node JS, Tailwind CSS, Daisy UI
     * [Live Link](https://traveg0.web.app/) 
-    * [Client Repository](https://traveg0.web.app/) 
-    * [Server Repository](https://traveg0.web.app/)
+    * [Client Repository](https://github.com/rezoanahmed/travego-client) 
+    * [Server Repository](https://github.com/rezoanahmed/travego-server)
 - Cars Palace
     * Technologies Used: React JS, Express JS, Firebase, MongoDB, Node JS, Tailwind CSS, Daisy UI
     * [Live Link](https://cars-palace.web.app/)
-    * [Client Repository](https://traveg0.web.app/) 
-    * [Server Repository](https://traveg0.web.app/)
+    * [Client Repository](https://github.com/rezoanahmed/cars-palace-client) 
+    * [Server Repository](https://github.com/rezoanahmed/cars-palace-server)
 - Fitness Zone
     * Technologies Used: React JS, Firebase, Node JS, Tailwind CSS, Daisy UI
     * [Live Link](https://gym-zone-abd0e.web.app/)
-    * [Repository](https://traveg0.web.app/) 
+    * [Repository](https://github.com/rezoanahmed/fitness-zone) 
 
 ## Connect with me!
 
@@ -48,5 +49,5 @@ I am excited about the opportunity to contribute my skills and knowledge to a dy
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about my passion
 - 📫 How to reach me: E-mail, LinkedIn, Whatsapp
-- ⚡ Fun fact: Besides Programming, I play football and workout daily
+- ⚡ Fun fact: Besides Programming, I play football and workout daily.
 
