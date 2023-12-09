@@ -1,14 +1,33 @@
 
 
 ![alt text](https://raw.githubusercontent.com/rezoanahmed/rezoanahmed/main/images/REZOAN%20Ahmed.png)
+
+## About Me
+Hello, I'm Md Rezoan Ahmed, a passionate and dedicated computer science and engineering graduate with a strong foundation in the field. I have successfully completed my bachelor's degree, and I am currently expanding my skill set by diving into the world of MERN Stack development.
+
+My journey in computer science has equipped me with a solid understanding of programming languages, algorithms, and data structures. The MERN Stack (MongoDB, Express.js, React.js, Node.js) has captured my interest, and I am actively honing my expertise in this full-stack technology to build robust and dynamic web applications.
+
+I am excited about the opportunity to contribute my skills and knowledge to a dynamic team, where I can further grow as a professional while making meaningful contributions to impactful projects. Let's connect and explore how my technical skills and enthusiasm for learning can add value to your team.
+
 ## Overview
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezoanahmed&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
+
+
 ## Three Recent Projects
-- [Travego](https://traveg0.web.app/)
-- [Cars Palace](https://cars-palace.web.app/)
-- [Fitness Zone](https://gym-zone-abd0e.web.app/)
+- Travego
+    * [Live Link](https://traveg0.web.app/) 
+    * [Client Repository](https://traveg0.web.app/) 
+    * [Server Repository](https://traveg0.web.app/)
+- Cars Palace
+    * [Live Link](https://cars-palace.web.app/)
+    * [Client Repository](https://traveg0.web.app/) 
+    * [Server Repository](https://traveg0.web.app/)
+- Fitness Zone
+    * [Live Link](https://gym-zone-abd0e.web.app/)
+    * [Client Repository](https://traveg0.web.app/) 
+    * [Server Repository](https://traveg0.web.app/)
 
 ## Connect with me!
 
