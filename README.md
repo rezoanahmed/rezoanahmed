@@ -1,6 +1,6 @@
 
 
-![picture alt](https://i.ibb.co/YLzM01q/REZOAN-Ahmed.gif "My Title")
+![picture alt](./images/REZOAN%20Ahmed.gif)
 
 ## About Me
 Hello, I'm Md Rezoan Ahmed, a passionate and dedicated computer science and engineering graduate with a strong foundation in the field. I have successfully completed my bachelor's degree, and I am currently expanding my skill set by diving into the world of MERN Stack development.
