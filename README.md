@@ -40,7 +40,7 @@ I am excited about the opportunity to contribute my skills and knowledge to a dy
 
 
 
-## I have expertise on the several languages
+## I have expertise on these several technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongo,nodejs,git,figma)](https://skillicons.dev)
 
 
