@@ -41,7 +41,7 @@ I am excited about the opportunity to contribute my skills and knowledge to a dy
 
 
 ## I have expertise on the several languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongo,nodejs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongo,nodejs,git,figma)](https://skillicons.dev)
 
 
 ## About Me
