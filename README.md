@@ -17,17 +17,19 @@ I am excited about the opportunity to contribute my skills and knowledge to a dy
 
 ## Three Recent Projects
 - Travego
+    * Technologies Used: React JS, Express JS, Firebase, MongoDB, Node JS, Tailwind CSS, Daisy UI
     * [Live Link](https://traveg0.web.app/) 
     * [Client Repository](https://traveg0.web.app/) 
     * [Server Repository](https://traveg0.web.app/)
 - Cars Palace
+    * Technologies Used: React JS, Express JS, Firebase, MongoDB, Node JS, Tailwind CSS, Daisy UI
     * [Live Link](https://cars-palace.web.app/)
     * [Client Repository](https://traveg0.web.app/) 
     * [Server Repository](https://traveg0.web.app/)
 - Fitness Zone
+    * Technologies Used: React JS, Firebase, Node JS, Tailwind CSS, Daisy UI
     * [Live Link](https://gym-zone-abd0e.web.app/)
-    * [Client Repository](https://traveg0.web.app/) 
-    * [Server Repository](https://traveg0.web.app/)
+    * [Repository](https://traveg0.web.app/) 
 
 ## Connect with me!
 
